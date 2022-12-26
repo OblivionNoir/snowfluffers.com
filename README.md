@@ -1,3 +1,2 @@
-Cute website showcasing our pets at christmas time over the years. Gotta love video overlays:)
+Cute website showcasing our pets at christmas time over the years.
 
-yes I know it's slow no I don't feel like optimizing it 
